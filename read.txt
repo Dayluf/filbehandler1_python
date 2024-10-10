@@ -1,0 +1,1 @@
+hei dette er n test for å sjekkke om git-hub funker
